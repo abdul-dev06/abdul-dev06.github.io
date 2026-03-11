@@ -1,0 +1,7 @@
+include: [".well-known"]
+```
+4. Commit it
+
+Wait a minute for GitHub Pages to rebuild, then try:
+```
+https://abdul-dev06.github.io/.well-known/assetlinks.json
